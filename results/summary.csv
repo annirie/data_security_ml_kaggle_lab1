@@ -1,0 +1,3 @@
+model,clean,fgsm_4,fgsm_8,fgsm_16,pgd_4,pgd_8,pgd_16,noise,eps_limit_fgsm,eps_limit_fgsm_rel,eps_limit_pgd,eps_limit_pgd_10
+clean,0.9892,0.3762,0.3823,0.42,0.0,0.0,0.0,0.9762,1.8/255,1.9/255,0.5/255,1.0/255
+robust,0.9485,0.8215,0.6769,0.4946,0.7569,0.4185,0.0608,0.9477,15.8/255,17.5/255,7.0/255,15.1/255

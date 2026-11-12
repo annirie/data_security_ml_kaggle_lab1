@@ -1,0 +1,7 @@
+checkpoints/
+data/
+.venv/
+__pycache__/
+*.tmp
+*.zip
+__results___files/
